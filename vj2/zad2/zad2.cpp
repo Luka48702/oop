@@ -1,29 +1,20 @@
-// zad2.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
 using namespace std;
 
-int& funkcija(int* niz, int index, int v) {
-   // if (index > v) {
-    //    return NULL;
-  //  }
 
-    return niz[index];
+void povratnaVrijednost(int niz[], int i, int &pov)
+{
+    pov = niz[i - 1];
 }
-
-
-
 
 int main()
 {
-    int niz[] = { 1,2,3,4,5 };
-    int index=2;
-    int v = 5;
-    funkcija(niz, index, v) += 1;
-    for (int i = 0; i < v; i++) {
-        cout << niz[i] << endl;
-    }
-}
+    int niz[] = {2, 4, 6, 8, 10};
+    int i = 1;
+    int pov;
 
+    povratnaVrijednost(niz, i, pov);
+
+    cout << "Vrijednost je: " << pov + 1;
+}
 
