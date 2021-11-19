@@ -1,3 +1,0 @@
-﻿3.obj : error LNK2019: unresolved external symbol "class std::vector<int,class std::allocator<int> > __cdecl input(class std::vector<int,class std::allocator<int> > &,int)" (?input@@YA?AV?$vector@HV?$allocator@H@std@@@std@@AAV12@H@Z) referenced in function _main
-3.obj : error LNK2019: unresolved external symbol "void __cdecl print(class std::vector<int,class std::allocator<int> > &)" (?print@@YAXAAV?$vector@HV?$allocator@H@std@@@std@@@Z) referenced in function _main
-C:\Users\andre\Documents\OOP\Vj3\Debug\3.exe : fatal error LNK1120: 2 unresolved externals
