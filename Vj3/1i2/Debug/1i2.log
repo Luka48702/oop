@@ -1,0 +1,6 @@
+﻿  1i2.cpp
+C:\Users\andre\Documents\OOP\Vj3\1i2\1i2.cpp(47,57): error C2601: 'input3': local function definitions are illegal
+C:\Users\andre\Documents\OOP\Vj3\1i2\1i2.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\andre\Documents\OOP\Vj3\1i2\1i2.cpp(66,7): error C2601: 'main': local function definitions are illegal
+C:\Users\andre\Documents\OOP\Vj3\1i2\1i2.cpp(35): message : this line contains a '{' which has not yet been matched
+C:\Users\andre\Documents\OOP\Vj3\1i2\1i2.cpp(67): fatal error C1075: '{': no matching token found
