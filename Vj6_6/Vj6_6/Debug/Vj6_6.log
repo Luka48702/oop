@@ -1,0 +1,5 @@
+﻿  Vj6_6.cpp
+C:\Users\andre\Documents\OOP\Vj6_6\Vj6_6\Vj6_6.cpp(145,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\andre\Documents\OOP\Vj6_6\Vj6_6\Vj6_6.cpp(182,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\andre\Documents\OOP\Vj6_6\Vj6_6\Vj6_6.cpp(192,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Vj6_6.vcxproj -> C:\Users\andre\Documents\OOP\Vj6_6\Debug\Vj6_6.exe
