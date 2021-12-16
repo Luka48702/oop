@@ -1,0 +1,37 @@
+﻿  7.cpp
+C:\Users\andre\source\repos\7\7\7.cpp(43,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\source\repos\7\7\7.cpp(44,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\source\repos\7\7\7.cpp(57,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\source\repos\7\7\7.cpp(58,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\source\repos\7\7\7.cpp(65,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\source\repos\7\7\7.cpp(66,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\source\repos\7\7\7.cpp(108,9): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\andre\source\repos\7\7\7.cpp(109,9): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\andre\source\repos\7\7\7.cpp(110,9): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\andre\source\repos\7\7\7.cpp(111,9): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\andre\source\repos\7\7\7.cpp(112,6): error C2374: 'x1': redefinition; multiple initialization
+C:\Users\andre\source\repos\7\7\7.cpp(108): message : see declaration of 'x1'
+C:\Users\andre\source\repos\7\7\7.cpp(113,6): error C2374: 'y1': redefinition; multiple initialization
+C:\Users\andre\source\repos\7\7\7.cpp(110): message : see declaration of 'y1'
+C:\Users\andre\source\repos\7\7\7.cpp(114,6): error C2374: 'x2': redefinition; multiple initialization
+C:\Users\andre\source\repos\7\7\7.cpp(109): message : see declaration of 'x2'
+C:\Users\andre\source\repos\7\7\7.cpp(115,6): error C2374: 'y2': redefinition; multiple initialization
+C:\Users\andre\source\repos\7\7\7.cpp(111): message : see declaration of 'y2'
+C:\Users\andre\source\repos\7\7\7.cpp(121,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\source\repos\7\7\7.cpp(122,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
