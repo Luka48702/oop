@@ -24,8 +24,8 @@ stack<temp>::stack() {
 	t = 0;
 }
 
-template<typename X>
-stack<X>::~stack() {
+template<typename temp>
+stack<temp>::~stack() {
 	delete[] v;
 }
 
