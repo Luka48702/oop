@@ -11,14 +11,12 @@ int Player1::H_pick() {
 	Game g;
 	cout << "Number of coins:\n";
 	cin >> num_coin;
-	while (num_coin > 3)
-	{
+	while (num_coin > 3){
 		cout << "Wrong input" << endl;
 		cin >> num_coin;
 	}
 
-	if (num_coin == 0)
-	{
+	if (num_coin == 0){
 		set_choice(0);
 		return total;
 	}
@@ -29,19 +27,16 @@ int Player1::H_pick() {
 		for (size_t i = 0; i < num_coin; i++)
 		{
 
-			for (auto it = coins.begin(); it < coins.end(); it++)
-			{
+			for (auto it = coins.begin(); it < coins.end(); it++){
 				cout << *it << " left" << endl;
 			}
 
-			while (1)
-			{
+			while (1){
 				cin >> selected;
-				if (selected == 1 || selected == 2 || selected == 5)
-				{
+				if (selected == 1 || selected == 2 || selected == 5){
 					break;
 				}
-				else {
+				else{
 					cout << "Pick 1, 2 or 5" << endl;
 				}
 			}
